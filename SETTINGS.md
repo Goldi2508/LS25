@@ -5,7 +5,7 @@ fields marked with `(*)` are required to be checked, or leave empty for default 
 
 | **- Key -**                                  | **- Description -**                                                       |
 |----------------------------------------------|---------------------------------------------------------------------------|
-| (*) application.serverPassword               | The password to join the server (or leave empty)                          |
+| (*) application.serverPassword               | 123321                                                                    |
 | (*) application.serverStatsUrl               | The feed URL to the server stats (from the web interface from the server) |
 | (*) application.serverMapUrl                 | The feed URL to the server map (from the web interface from the server)   |
 | (*) application.updateIntervalSeconds        | The interval in seconds to update the server stats                        |
